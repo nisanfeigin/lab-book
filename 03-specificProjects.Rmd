@@ -21,3 +21,5 @@ My work focuses on understanding expression heterogeneity in gliomas. I analyse 
 **Noam G**  
 My project focuses on deconvolution of bulk RNA-seq data to identify and distinguish IFN response and MHC class ii genes in cancer cells from immune cells. 
 
+**Nisan **
+My project focuses on brain metastasis. It includes single cell and bulk rna data (which we deconvolute) of brain mets samples, including after immunotherapy and also samples from a clinical trail.
